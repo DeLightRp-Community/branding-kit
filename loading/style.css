@@ -3,8 +3,8 @@ html{
 
     --black :#1a1c20 ;
     --white : #fff ;
-    --green : #00c380 ;
-    --d-green : #019b66 ;
+    --green : rgb(160,14,174) ;
+    --d-green : rgb(106,31,105) ;
     --gray : #c1c1c1 ;
     --l-gray: #c4c4c4 ;
     --m-gray : #373838 ;
