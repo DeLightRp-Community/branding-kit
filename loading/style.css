@@ -1012,3 +1012,11 @@ body::after{
 }
 
 
+
+
+.delight-logo {
+    width: 100px;
+    position: fixed;
+    bottom: 8px;
+    right: 60px;
+  }
